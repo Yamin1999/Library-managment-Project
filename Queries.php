@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-    <?php include "index.html" ?>
+    <?php    include "header.html"; ?>
     <main role="main">
 
   <!-- Main jumbotron for a primary marketing message or call to action -->
@@ -31,7 +31,7 @@
       </div>
       <div class="col-md-4">
         <h2>Query 4</h2>
-        <p>	List  the details of students who borrowed book whose author is Tanenbum </p>
+        <p>	List  the details of students who borrowed book of specific Author (e.g., Tenenbum) </p>
         <p><a class="btn btn-primary" href="Query4input.php" role="button">Run Query  &raquo;</a></p>
       </div>
       <div class="col-md-4">
@@ -50,7 +50,7 @@
       </div>
       <div class="col-md-4">
         <h2>Query 7</h2>
-        <p>	Give a list of books taken by student with stud_no  C033002. </p>
+        <p>	Give a list of books taken by student with specific Student No (e.g., C033002). </p>
         <br>
         <p><a class="btn btn-primary" href="Query7input.php" role="button">Run Query  &raquo;</a></p>
       </div>

@@ -11,7 +11,7 @@
   </head>
   <body>
     <?php
-    include "index.html";
+     include "header.html";
     ?>
 
     <canvas id="myChart" width="200" height="130"></canvas>

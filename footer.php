@@ -71,23 +71,23 @@
        <small class="d-block mb-3 text-muted">&copy; 2017-2019</small>
      </div>
      <div class="col-6 col-md">
-       <h5>Features</h5>
+       <h5>Designed By</h5>
        <ul class="list-unstyled text-small">
-         <li><a class="text-muted" href="#">Cool stuff</a></li>
-         <li><a class="text-muted" href="#">Random feature</a></li>
-         <li><a class="text-muted" href="#">Team feature</a></li>
-         <li><a class="text-muted" href="#">Stuff for developers</a></li>
-         <li><a class="text-muted" href="#">Another one</a></li>
-         <li><a class="text-muted" href="#">Last time</a></li>
+
+         <li><a class="text-muted">Md Yamin Haque</a></li>
+         <li><a class="text-muted" >Roll: 1603007</a></li>
+         <li><a class="text-muted" >Section: A</a></li>
+         <li><a class="text-muted" >CSE Department</a></li>
+         <li><a class="text-muted">RUET</a></li>
        </ul>
      </div>
      <div class="col-6 col-md">
-       <h5>Resources</h5>
+       <h5>Gueided By</h5>
        <ul class="list-unstyled text-small">
-         <li><a class="text-muted" href="#">Resource</a></li>
-         <li><a class="text-muted" href="#">Resource name</a></li>
-         <li><a class="text-muted" href="#">Another resource</a></li>
-         <li><a class="text-muted" href="#">Final resource</a></li>
+         <li><a class="text-muted" href="#">Dr. Md. Ali Hossain</a></li>
+         <li><a class="text-muted" href="#">Associate Professor</a></li>
+         <li><a class="text-muted" href="#">CSE Department</a></li>
+         <li><a class="text-muted" href="#">RUET</a></li>
        </ul>
      </div>
      <div class="col-6 col-md">

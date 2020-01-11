@@ -23,11 +23,11 @@
   <body>
 
     <?php
-include "index.html";
+include "header.html";
      ?>
 <br><br><br><br>
 
-     <div class="card-deck" style="max-width:960px; margin-left: 200px;">
+     <div class="card-deck" style="max-width:960px; margin-left: 280px;">
        <div class="card">
          <img src="t.png" class="card-img-top" alt="..." >
          <div class="card-body">
